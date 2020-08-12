@@ -1,0 +1,16 @@
+$primaryColor: #EEE;
+$secondaryColor: gray;
+$link_color: lighten(blue, 30);
+
+
+*, body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+a{
+    color: $link_color;
+
+}

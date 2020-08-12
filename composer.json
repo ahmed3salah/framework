@@ -1,0 +1,12 @@
+{
+    "name": "code_it/framework",
+    "description": "php framework",
+    "type": "framework",
+    "authors": [
+        {
+            "name": "Ahmed Salah",
+            "email": "3ady.hd@gmail.com"
+        }
+    ],
+    "require": {}
+}
