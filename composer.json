@@ -8,5 +8,7 @@
             "email": "3ady.hd@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^9.3"
+    }
 }
