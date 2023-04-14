@@ -160,11 +160,11 @@ class Model{
     }
 
     public function update($attributes){
-
+        // TODO 
     }
 
     public static function all(){
-
+        // TODO
     }
 
     public function query($conditions){
